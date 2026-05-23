@@ -73,6 +73,8 @@ DESIGN FISICO
 
 I componenti sono stati installati su due circuiti stampati ideati appositamente per il progeto. Il PCB del gateway, a differenza di quello del nodo sensori, è stato costruito in stile "Shield" per la Raspberry Pi 3.
 
-<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/21963ced-49d0-4560-99cd-9012bb5cf8ce" />
+<img width="214" height="335" alt="image" src="https://github.com/user-attachments/assets/0305127a-1236-4402-8d1a-81e58df1bf8a" />
 
-<img width="549" height="463" alt="image" src="https://github.com/user-attachments/assets/bac50708-f223-488a-84d8-3e1675ac84af" />
+<img width="502" height="407" alt="image" src="https://github.com/user-attachments/assets/a06b99c7-71fd-490c-8b5b-dbd04e51fc60" />
+
+
